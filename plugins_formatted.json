@@ -835,7 +835,16 @@
     "message_id": 1010921195312513095
   },
   "Dashless": {
-    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
+    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
+    "description": "Changes dashes in text channel names to spaces.",
+    "version": "1.0.0",
+    "color": "#64D3FF",
+    "author": [
+      {
+        "name": "ssense",
+        "id": "146080957965795328"
+      }
+    ],
     "message_id": 1010921068401262652
   },
   "MuteNewGuilds": {
@@ -1068,7 +1077,7 @@
     ]
   },
   "VendettaCompat": {
-    "url": "https://raw.githubusercontent.com/acquitelol/vendetta-compat/main/dist/VendettaCompat.js"
+    "url": "https://raw.githubusercontent.com/SerStars/vendetta-compat/main/dist/VendettaCompat.js"
   },
   "FixConnecting": {
     "url": "https://raw.githubusercontent.com/m4fn3/FixConnecting/master/dist/FixConnecting.js",
@@ -1081,5 +1090,8 @@
         "id": "519760564755365888"
       }
     ]
+  },
+  "SilentTyping": {
+    "url": "https://egg.cafe/SilentTyping.js"
   }
 }

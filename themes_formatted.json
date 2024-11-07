@@ -11,16 +11,16 @@
     "version": "1.0",
     "message_id": 1303003798683258921
   },
-  "SpookOrange": {
-    "url": "https://raw.githubusercontent.com/catnipjson/catnips-themes/refs/heads/main/Spook/SpookOrange.json",
-    "description": "Get into that spooky feeling with an authentic orange pumpkin!",
+  "SpookGreen": {
+    "url": "https://raw.githubusercontent.com/catnipjson/catnips-themes/refs/heads/main/Spook/SpookGreen.json",
+    "description": "Get into that spooky feeling with a freshly painted green pumpkin!",
     "author": [
       {
         "name": "catnip.json",
         "id": "980160393093730395"
       }
     ],
-    "color": "#F4831B",
+    "color": "#64C329",
     "message_id": 1298779036620951573
   },
   "DateNight": {
@@ -163,16 +163,16 @@
     "color": "#7C82FF",
     "message_id": 1246816475147276372
   },
-  "BetterDarkPink": {
-    "url": "https://raw.githubusercontent.com/catnipjson/BetterDark/main/BetterDarkPink.json",
-    "description": "Darker than dark, with a twist of pink.",
+  "BetterDark": {
+    "url": "https://raw.githubusercontent.com/catnipjson/BetterDark/main/BetterDark.json",
+    "description": "Darker than dark.",
     "author": [
       {
         "name": "darealyeeto",
         "id": "980160393093730395"
       }
     ],
-    "color": "#FB8FFF",
+    "color": "#3E3C3C",
     "message_id": 1246242646008139837
   },
   "Discord_Dark": {
@@ -199,9 +199,9 @@
     "color": "#DA4453",
     "message_id": 1228887393654800424
   },
-  "Lavender": {
-    "url": "https://raw.githubusercontent.com/catnipjson/Lavender/main/Lavender.json",
-    "description": "A light, soft purple theme.",
+  "LavenderNoBG": {
+    "url": "https://raw.githubusercontent.com/catnipjson/Lavender/main/LavenderNoBG.json",
+    "description": "A light, soft purple theme - backgroundless.",
     "author": [
       {
         "name": "catnip.json",
@@ -259,16 +259,16 @@
     "version": "1.1",
     "message_id": 1183855530398195813
   },
-  "AmoledOrthinanosRed": {
-    "url": "https://rosieorthinanos.dev/themes/AmoledOrthinanosRed.json",
-    "description": "Amoled Red revamp of my BetterDiscord theme.",
+  "AmoledOrthinanosYellow": {
+    "url": "https://rosieorthinanos.dev/themes/AmoledOrthinanosYellow.json",
+    "description": "Amoled Yellow revamp of my BetterDiscord theme.",
     "author": [
       {
         "name": "Rosie",
         "id": "99239287052054528"
       }
     ],
-    "color": "#ff2b2b",
+    "color": "#f7f28b",
     "version": "1.2",
     "message_id": 1183835508208578620
   },
@@ -497,9 +497,9 @@
     "version": "1.2",
     "message_id": 1090134756877934592
   },
-  "Kuromii": {
-    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/Kuromii.json",
-    "description": "Kuromi Theme (For Femboys)",
+  "KuromiiPad": {
+    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/KuromiiPad.json",
+    "description": "Kuromi iPad Theme (For Femboys)",
     "author": [
       {
         "name": "YuhMuva#1799",
@@ -657,6 +657,19 @@
     "version": "1.0.1",
     "message_id": 1033998317916541029
   },
+  "Joksys": {
+    "url": "https://raw.githubusercontent.com/Joksy/Joksy-Enmity/main/Joksys-Theme-V1/Joksys.json",
+    "description": "Dark blue theme, made by Joksy",
+    "author": [
+      {
+        "name": "Joksy",
+        "id": "532222509399932949"
+      }
+    ],
+    "color": "#202a4a",
+    "version": "1.0",
+    "message_id": 1031825622676275270
+  },
   "Eris": {
     "url": "https://raw.githubusercontent.com/Yan-Jobs/enmity/main/themes/eris/Eris.json",
     "description": "Black, classic Discord theme... now on Enmity",
@@ -744,8 +757,8 @@
     "version": "1.0",
     "message_id": 1011809424467300444
   },
-  "Pink_ipad": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
+  "Pink_iphone": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
     "description": "Pink Anime Theme",
     "author": [
       {
@@ -802,8 +815,8 @@
     "version": "1.0",
     "message_id": 976434299609972737
   },
-  "Yamato": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Yamato.json",
+  "Vergil": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Vergil.json",
     "description": "Motivated one",
     "author": [
       {
@@ -935,17 +948,17 @@
     ],
     "message_id": 995045416003444797
   },
-  "FEFE": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
-    "description": "Colorful hair, don't care (OLED)",
+  "FEFE69": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
+    "description": "Colorful hair, don't care",
     "author": [
       {
         "name": "Sudo",
         "id": "696446023815397456"
       }
     ],
-    "color": "#FF0000",
-    "version": "1.9",
+    "color": "#00B050",
+    "version": "69",
     "message_id": 992712535830712410
   },
   "Waveout": {
