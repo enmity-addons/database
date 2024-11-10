@@ -25,11 +25,12 @@
       "version": "unknown"
     },
     "Catgirls": {
-      "text": "Plugin will not load at all.",
-      "version": "unknown"
+      "text": "Plugin will not load at all.\nUse the fixed version below:",
+      "version": "unknown",
+      "alt": "https://raw.githubusercontent.com/byeoon/CatgirlsPluginV2/main/dist/Catgirls.js"
     },
     "CopyEmbeds": {
-      "text": "The \"Copy Embed\" button inside the message context menu might break other functions.",
+      "text": "The \"Copy Embed\" button inside the message context menu might break other functions or won't show the button in the message context menu.",
       "version": "unknown"
     },
     "CreateWebhooks": {
@@ -62,7 +63,7 @@
       "version": "none"
     },
     "LocalPin": {
-      "text": "Prompt to pin message does not appear.",
+      "text": "The \"Pin Message Locally\" button in the context menu won't show nor the prompt.",
       "version": "unknown"
     },
     "MarkAllAsRead": {
