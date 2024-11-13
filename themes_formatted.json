@@ -163,16 +163,16 @@
     "color": "#7C82FF",
     "message_id": 1246816475147276372
   },
-  "BetterDark": {
-    "url": "https://raw.githubusercontent.com/catnipjson/BetterDark/main/BetterDark.json",
-    "description": "Darker than dark.",
+  "BetterDarkRed": {
+    "url": "https://raw.githubusercontent.com/catnipjson/BetterDark/main/BetterDarkRed.json",
+    "description": "Darker than dark, with a twist of red.",
     "author": [
       {
         "name": "darealyeeto",
         "id": "980160393093730395"
       }
     ],
-    "color": "#3E3C3C",
+    "color": "#EA5959",
     "message_id": 1246242646008139837
   },
   "Discord_Dark": {
@@ -199,9 +199,9 @@
     "color": "#DA4453",
     "message_id": 1228887393654800424
   },
-  "LavenderNoBG": {
-    "url": "https://raw.githubusercontent.com/catnipjson/Lavender/main/LavenderNoBG.json",
-    "description": "A light, soft purple theme - backgroundless.",
+  "Lavender": {
+    "url": "https://raw.githubusercontent.com/catnipjson/Lavender/main/Lavender.json",
+    "description": "A light, soft purple theme.",
     "author": [
       {
         "name": "catnip.json",
@@ -349,17 +349,17 @@
     "version": "1.2",
     "message_id": 1139268724294160505
   },
-  "OrthinanosRed": {
-    "url": "https://rosieorthinanos.dev/themes/OrthinanosRed.json",
-    "description": "Red revamp of my BetterDiscord theme.",
+  "OrthinanosPurple": {
+    "url": "https://rosieorthinanos.dev/themes/OrthinanosPurple.json",
+    "description": "Purple revamp of my BetterDiscord theme.",
     "author": [
       {
         "name": "Rosie",
         "id": "99239287052054528"
       }
     ],
-    "color": "#ff2b2b",
-    "version": "1.8",
+    "color": "#c68bf7",
+    "version": "1.6",
     "message_id": 1127015668588494858
   },
   "RoyalUndella": {
@@ -497,9 +497,9 @@
     "version": "1.2",
     "message_id": 1090134756877934592
   },
-  "KuromiiPad": {
-    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/KuromiiPad.json",
-    "description": "Kuromi iPad Theme (For Femboys)",
+  "Kuromii": {
+    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/Kuromii.json",
+    "description": "Kuromi Theme (For Femboys)",
     "author": [
       {
         "name": "YuhMuva#1799",
@@ -781,8 +781,8 @@
     "version": "1.0",
     "message_id": 1009126385178128506
   },
-  "Vamp_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
+  "Vamp_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
     "description": "Vamp Anime Girl",
     "author": [
       {
@@ -790,7 +790,7 @@
         "id": "848518188195250176"
       }
     ],
-    "version": "1.1",
+    "version": "1.0",
     "message_id": 1008773047215472731
   },
   "Aurora": {
@@ -815,8 +815,8 @@
     "version": "1.0",
     "message_id": 976434299609972737
   },
-  "Vergil": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Vergil.json",
+  "Yamato": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Yamato.json",
     "description": "Motivated one",
     "author": [
       {
@@ -1101,8 +1101,8 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json",
     "message_id": 978006668354912338
   },
-  "Strawberry": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
+  "StrawberryV2": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
     "author": [
       {
         "name": "Abby",
