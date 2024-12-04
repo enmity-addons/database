@@ -1,4 +1,16 @@
 {
+  "friends-since": {
+    "url": "https://raw.githubusercontent.com/doggybootsy/enmity-plugins/refs/heads/main/dist/friends-since.js",
+    "description": "Shows how long you have been friends for",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "doggybootsy",
+        "id": "515780151791976453"
+      }
+    ],
+    "message_id": 1312978626253164644
+  },
   "FolderCollapse": {
     "url": "https://github.com/hauntii/enmity-FolderCollapse/releases/latest/download/FolderCollapse.js",
     "description": "Collapse folders automatically when you open another one",
@@ -835,16 +847,7 @@
     "message_id": 1010921195312513095
   },
   "Dashless": {
-    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
-    "description": "Changes dashes in text channel names to spaces.",
-    "version": "1.0.0",
-    "color": "#64D3FF",
-    "author": [
-      {
-        "name": "ssense",
-        "id": "146080957965795328"
-      }
-    ],
+    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
     "message_id": 1010921068401262652
   },
   "MuteNewGuilds": {
