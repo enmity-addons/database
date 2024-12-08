@@ -163,16 +163,16 @@
     "color": "#7C82FF",
     "message_id": 1246816475147276372
   },
-  "BetterDarkOrange": {
-    "url": "https://raw.githubusercontent.com/catnipjson/BetterDark/main/BetterDarkOrange.json",
-    "description": "Darker than dark, with a twist of orange.",
+  "BetterDarkGreen": {
+    "url": "https://raw.githubusercontent.com/catnipjson/BetterDark/main/BetterDarkGreen.json",
+    "description": "Darker than dark, with a twist of green.",
     "author": [
       {
         "name": "darealyeeto",
         "id": "980160393093730395"
       }
     ],
-    "color": "#FFA763",
+    "color": "#BAFFB3",
     "message_id": 1246242646008139837
   },
   "Discord_Dark": {
@@ -259,16 +259,16 @@
     "version": "1.1",
     "message_id": 1183855530398195813
   },
-  "AmoledOrthinanosYellow": {
-    "url": "https://rosieorthinanos.dev/themes/AmoledOrthinanosYellow.json",
-    "description": "Amoled Yellow revamp of my BetterDiscord theme.",
+  "AmoledOrthinanosRed": {
+    "url": "https://rosieorthinanos.dev/themes/AmoledOrthinanosRed.json",
+    "description": "Amoled Red revamp of my BetterDiscord theme.",
     "author": [
       {
         "name": "Rosie",
         "id": "99239287052054528"
       }
     ],
-    "color": "#f7f28b",
+    "color": "#ff2b2b",
     "version": "1.2",
     "message_id": 1183835508208578620
   },
@@ -349,17 +349,17 @@
     "version": "1.2",
     "message_id": 1139268724294160505
   },
-  "OrthinanosYellow": {
-    "url": "https://rosieorthinanos.dev/themes/OrthinanosYellow.json",
-    "description": "Yellow revamp of my BetterDiscord theme.",
+  "OrthinanosRed": {
+    "url": "https://rosieorthinanos.dev/themes/OrthinanosRed.json",
+    "description": "Red revamp of my BetterDiscord theme.",
     "author": [
       {
         "name": "Rosie",
         "id": "99239287052054528"
       }
     ],
-    "color": "#f7f28b",
-    "version": "1.5",
+    "color": "#ff2b2b",
+    "version": "1.8",
     "message_id": 1127015668588494858
   },
   "RoyalUndella": {
@@ -657,19 +657,6 @@
     "version": "1.0.1",
     "message_id": 1033998317916541029
   },
-  "Joksys": {
-    "url": "https://raw.githubusercontent.com/Joksy/Joksy-Enmity/main/Joksys-Theme-V1/Joksys.json",
-    "description": "Dark blue theme, made by Joksy",
-    "author": [
-      {
-        "name": "Joksy",
-        "id": "532222509399932949"
-      }
-    ],
-    "color": "#202a4a",
-    "version": "1.0",
-    "message_id": 1031825622676275270
-  },
   "Eris": {
     "url": "https://raw.githubusercontent.com/Yan-Jobs/enmity/main/themes/eris/Eris.json",
     "description": "Black, classic Discord theme... now on Enmity",
@@ -757,8 +744,8 @@
     "version": "1.0",
     "message_id": 1011809424467300444
   },
-  "Pink_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
+  "Pink_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
     "description": "Pink Anime Theme",
     "author": [
       {
@@ -948,17 +935,17 @@
     ],
     "message_id": 995045416003444797
   },
-  "FEFE69": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
-    "description": "Colorful hair, don't care",
+  "FEFE": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
+    "description": "Colorful hair, don't care (OLED)",
     "author": [
       {
         "name": "Sudo",
         "id": "696446023815397456"
       }
     ],
-    "color": "#00B050",
-    "version": "69",
+    "color": "#FF0000",
+    "version": "1.9",
     "message_id": 992712535830712410
   },
   "Waveout": {
@@ -1101,8 +1088,8 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json",
     "message_id": 978006668354912338
   },
-  "StrawberryV2": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
+  "Strawberry": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
     "author": [
       {
         "name": "Abby",

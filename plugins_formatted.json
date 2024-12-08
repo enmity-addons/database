@@ -13,6 +13,7 @@
   },
   "FolderCollapse": {
     "url": "https://github.com/hauntii/enmity-FolderCollapse/releases/latest/download/FolderCollapse.js",
+    "last_update": 1726443022,
     "description": "Collapse folders automatically when you open another one",
     "version": "1.0.0",
     "color": "#FFFEB1",
@@ -26,6 +27,7 @@
   },
   "EmotesPlus": {
     "url": "https://raw.githubusercontent.com/byeoon/EmotesPlus/main/dist/EmotesPlus.js",
+    "last_update": 1728989467,
     "description": "Enhanced mobile emote management.",
     "version": "1.1.1",
     "color": "#00007d",
@@ -39,6 +41,7 @@
   },
   "Last.FM": {
     "url": "https://raw.githubusercontent.com/Kief5555/EnmityPlugins/master/Last.Fm/build/Last.FM.js",
+    "last_update": 1717243448,
     "description": "Last.fm RPC for now playing",
     "version": "0.1",
     "color": "#f69220",
@@ -65,6 +68,7 @@
   },
   "ActionSheetFinder": {
     "url": "https://raw.githubusercontent.com/byeoon/ActionSheetFinder/main/dist/ActionSheetFinder.js",
+    "last_update": 1712189127,
     "description": "Lists all ActionSheets to debug logs.",
     "version": "1.0.0",
     "color": "#00007d",
@@ -78,6 +82,7 @@
   },
   "Catgirls": {
     "url": "https://raw.githubusercontent.com/byeoon/CatgirlsPluginV2/main/dist/Catgirls.js",
+    "last_update": 1723165506,
     "description": "Sends images from the nekos.life API. \\u0E05\\u2022\\u03C9\\u2022\\u0E05",
     "version": "2.0.3",
     "color": "#00007d",
@@ -91,6 +96,7 @@
   },
   "ViewRaw": {
     "url": "https://raw.githubusercontent.com/aeongdesu/ermplugins/main/plugins/ViewRaw/dist/ViewRaw.js",
+    "last_update": 1721567643,
     "description": "View raw message data",
     "version": "1.0.0",
     "author": [
@@ -103,6 +109,7 @@
   },
   "Splasher": {
     "url": "https://raw.githubusercontent.com/hauntii/EnPlugins/main/Splasher/Release/Splasher.js",
+    "last_update": 1707340894,
     "description": "Lets you use imgur pictures as profile banners!",
     "version": "1.0.0",
     "color": "#FFFEB1",
@@ -129,6 +136,7 @@
   },
   "ShowConnections": {
     "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-ShowConnections/main/dist/ShowConnections.js",
+    "last_update": 1694555841,
     "description": "Compacts the connection section of the user profile.",
     "version": "1.0.0",
     "author": [
@@ -141,6 +149,7 @@
   },
   "ProfileSpotifies": {
     "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-ProfileSpotifies/main/dist/ProfileSpotifies.js",
+    "last_update": 1694727284,
     "description": "Allows you to pin spotify links to your profile.",
     "version": "1.0.0",
     "author": [
@@ -153,6 +162,7 @@
   },
   "SpotifyPreview": {
     "url": "https://raw.githubusercontent.com/fres621/enmityplugins/main/SpotifyPreview/dist/SpotifyPreview.js",
+    "last_update": 1694282649,
     "description": "Lets you preview (30s of audio) Spotify songs by pressing the links.",
     "version": "1.0.0",
     "author": [
@@ -165,6 +175,7 @@
   },
   "UnrealProfileThemes": {
     "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-UnrealProfileThemes/main/dist/UnrealProfileThemes.js",
+    "last_update": 1692814480,
     "description": "Uses hidden 3y3 codes to allow you to change your profile theme colors for anyone using the plugin",
     "version": "1.0.0",
     "author": [
@@ -177,6 +188,7 @@
   },
   "HighlightCode": {
     "url": "https://raw.githubusercontent.com/m4fn3/HighlightCode/master/dist/HighlightCode.js",
+    "last_update": 1689165548,
     "description": "Code highlighting for iOS!?",
     "version": "1.0.1",
     "color": "#ff8f8f",
@@ -190,6 +202,7 @@
   },
   "PreviewFile": {
     "url": "https://raw.githubusercontent.com/m4fn3/PreviewFile/master/dist/PreviewFile.js",
+    "last_update": 1688472733,
     "description": "allow previewing text files",
     "version": "1.0.2",
     "color": "#00a3af",
@@ -203,6 +216,7 @@
   },
   "FileSizeOnPicker": {
     "url": "https://raw.githubusercontent.com/m4fn3/FileSizeOnPicker/master/dist/FileSizeOnPicker.js",
+    "last_update": 1687266339,
     "description": "Show the size of files in the media picker",
     "version": "1.0.0",
     "color": "#a8d3ff",
@@ -216,6 +230,7 @@
   },
   "ShowUserName": {
     "url": "https://raw.githubusercontent.com/m4fn3/ShowUserName/master/dist/ShowUserName.js",
+    "last_update": 1687267682,
     "description": "Show username in chat views",
     "version": "1.0.1",
     "color": "#5b7e91",
@@ -229,6 +244,7 @@
   },
   "SuppressEmbeds": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/SuppressEmbeds.js",
+    "last_update": 1717709636,
     "description": "Allows you to Suppress/Unsuppress Embeds",
     "version": "1.1.1",
     "color": "#E54B4B",
@@ -242,6 +258,7 @@
   },
   "UnfollowAllPosts": {
     "url": "https://raw.githubusercontent.com/m4fn3/UnfollowAllPosts/master/dist/UnfollowAllPosts.js",
+    "last_update": 1685264770,
     "description": "Unfollow all posts/threads with one click",
     "version": "1.0.0",
     "color": "#ffe0c1",
@@ -255,6 +272,7 @@
   },
   "FreeNitroTheme": {
     "url": "https://raw.githubusercontent.com/m4fn3/FreeNitroTheme/master/dist/FreeNitroTheme.js",
+    "last_update": 1722905781,
     "description": "Use Nitro Themes for FREE",
     "version": "0.0.5",
     "color": "#800080",
@@ -268,6 +286,7 @@
   },
   "RelationshipNotifier": {
     "url": "https://raw.githubusercontent.com/m4fn3/RelationshipNotifier/master/dist/RelationshipNotifier.js",
+    "last_update": 1685445446,
     "description": "Notifies you when a friend, group chat, or server removes you",
     "version": "1.0.1",
     "color": "#e2c6ff",
@@ -281,6 +300,7 @@
   },
   "BetterBioText": {
     "url": "https://raw.githubusercontent.com/m4fn3/BetterBioText/master/dist/BetterBioText.js",
+    "last_update": 1685264954,
     "description": "adds some extra actions like copying on Long press, opening a link",
     "version": "1.0.1",
     "color": "#ffc0cb",
@@ -294,6 +314,7 @@
   },
   "PrettyErrorBoundary": {
     "url": "https://raw.githubusercontent.com/acquitelol/pretty-error-boundary/mistress/dist/PrettyErrorBoundary.js",
+    "last_update": 1681488425,
     "description": "Makes the Discord ErrorBoundary much more pretty and functional. This is my implementation of the Vendetta concept.",
     "version": "1.0.5",
     "color": "#ff9caf",
@@ -307,6 +328,7 @@
   },
   "EnmityYou": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-you/mistress/dist/EnmityYou.js",
+    "last_update": 1694298323,
     "description": "Allows you to use Enmity inside of the new You Tab. Enable from DevTools Widget \\u279D Design Toggles :3",
     "version": "1.2.7",
     "color": "#ff91ff",
@@ -320,6 +342,7 @@
   },
   "RandomizeFileName": {
     "url": "https://raw.githubusercontent.com/m4fn3/RandomizeFileName/master/dist/RandomizeFileName.js",
+    "last_update": 1683897918,
     "description": "Randomize the name of file you upload",
     "version": "1.0.0",
     "color": "#b0c4de",
@@ -333,6 +356,7 @@
   },
   "NoBandwidthKick": {
     "url": "https://raw.githubusercontent.com/m4fn3/NoBandwidthKick/master/dist/NoBandwidthKick.js",
+    "last_update": 1683381714,
     "description": "this plugin shut up bandwidth police that kicks you from a DM call when you are alone for 3 mins",
     "version": "1.0.0",
     "color": "#4682b4",
@@ -346,6 +370,7 @@
   },
   "FixEnmityLink": {
     "url": "https://raw.githubusercontent.com/m4fn3/FixEnmityLink/master/dist/FixEnmityLink.js",
+    "last_update": 1684585414,
     "description": "make enmity:// link work for all users on any versions!",
     "version": "1.1.0",
     "color": "#bdb76b",
@@ -359,6 +384,7 @@
   },
   "HideRecordButton": {
     "url": "https://raw.githubusercontent.com/m4fn3/HideRecordButton/master/dist/HideRecordButton.js",
+    "last_update": 1683381714,
     "description": "Hide Record Button",
     "version": "1.0.0",
     "color": "#8b0000",
@@ -372,6 +398,7 @@
   },
   "FakeSticker": {
     "url": "https://raw.githubusercontent.com/m4fn3/FakeSticker/master/dist/FakeSticker.js",
+    "last_update": 1694435387,
     "description": "Allows you to send stickers without Nitro",
     "version": "1.1.1",
     "color": "#556b2f",
@@ -385,6 +412,7 @@
   },
   "NoBlockedMessage": {
     "url": "https://raw.githubusercontent.com/m4fn3/NoBlockedMessage/master/dist/NoBlockedMessage.js",
+    "last_update": 1681214809,
     "description": "Completely remove blocked messages from your chat view",
     "version": "1.0.0",
     "color": "#f5deb3",
@@ -398,6 +426,7 @@
   },
   "MarkAllAsRead": {
     "url": "https://raw.githubusercontent.com/m4fn3/MarkAllAsRead/master/dist/MarkAllAsRead.js",
+    "last_update": 1679757374,
     "description": "mark all messages as read",
     "version": "1.0.0",
     "color": "#9393ff",
@@ -411,6 +440,7 @@
   },
   "ConfirmActions": {
     "url": "https://raw.githubusercontent.com/m4fn3/ConfirmActions/master/dist/ConfirmActions.js",
+    "last_update": 1685713036,
     "description": "Prevent you from accidentally doing what you didn't expected to do",
     "version": "1.0.3",
     "color": "#d2691e",
@@ -424,6 +454,7 @@
   },
   "LocalPin": {
     "url": "https://raw.githubusercontent.com/m4fn3/LocalPin/master/dist/LocalPin.js",
+    "last_update": 1684753681,
     "description": "Pin messages locally",
     "version": "1.0.2",
     "color": "#ccffe5",
@@ -437,6 +468,7 @@
   },
   "EnableStaging": {
     "url": "https://raw.githubusercontent.com/acquitelol/EnableStaging/mistress/dist/EnableStaging.js",
+    "last_update": 1683918210,
     "description": "Provides you access to staff-only features by assigning you pseudo-staff.",
     "version": "3.0.2",
     "color": "#2F3136",
@@ -454,6 +486,7 @@
   },
   "ThemeFixer": {
     "url": "https://raw.githubusercontent.com/amsyarasyiq/enmity-theme-fixer/main/dist/ThemeFixer.js",
+    "last_update": 1684234599,
     "description": "Workaround for light/AMOLED theme bug introduced by Enmity.",
     "version": "1.0.0",
     "author": [
@@ -466,6 +499,7 @@
   },
   "ReviewDB": {
     "url": "https://raw.githubusercontent.com/StupidityDB/EnmityPlugin/master/dist/ReviewDB.js",
+    "last_update": 1690929023,
     "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
     "version": "2.1.2",
     "color": "#ff0069",
@@ -483,6 +517,7 @@
   },
   "PronounDB": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
+    "last_update": 1690929291,
     "description": "Displays a Pronoun from PronounDB next to your name in the chat :3",
     "version": "1.2.3",
     "color": "#ff91ff",
@@ -496,6 +531,7 @@
   },
   "BetterStatusIndicator": {
     "url": "https://raw.githubusercontent.com/m4fn3/BetterStatusIndicator/master/dist/BetterStatusIndicator.js",
+    "last_update": 1715385954,
     "description": "Reveal statuses for every platform user is using with customizable color.",
     "version": "1.2.0",
     "color": "#da70d6",
@@ -513,6 +549,7 @@
   },
   "ConfirmCalls": {
     "url": "https://raw.githubusercontent.com/DebianProgrammer/enmity-plugins/main/ConfirmCalls/dist/ConfirmCalls.js",
+    "last_update": 1675280139,
     "description": "Confirm calls so you don't wake up your friend at 3:00 AM",
     "version": "1.0.0",
     "author": [
@@ -525,6 +562,7 @@
   },
   "SecretMessage": {
     "url": "https://raw.githubusercontent.com/m4fn3/SecretMessage/master/dist/SecretMessage.js",
+    "last_update": 1687002298,
     "description": "Send secret message that only your friend can understand.",
     "version": "1.0.4",
     "color": "#008b8b",
@@ -538,6 +576,7 @@
   },
   "AddonManager": {
     "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js",
+    "last_update": 1715402033,
     "description": "Manage plugins & themes easily!",
     "version": "1.1.8",
     "color": "#00ffff",
@@ -551,6 +590,7 @@
   },
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/GlobalBadges.js",
+    "last_update": 1717709636,
     "description": "Adds global badges from other client mods",
     "version": "1.2.7",
     "color": "#E54B4B",
@@ -564,6 +604,7 @@
   },
   "Downloader": {
     "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js",
+    "last_update": 1671986010,
     "description": "Install plugins or themes by simply pressing a button.",
     "version": "1.0.1",
     "author": [
@@ -576,6 +617,7 @@
   },
   "K2geLocker": {
     "url": "https://raw.githubusercontent.com/m4fn3/K2geLocker/master/dist/K2geLocker.js",
+    "last_update": 1688477379,
     "description": "Lock App / Server with passcode!",
     "version": "1.3.7",
     "color": "#00fa9a",
@@ -589,6 +631,7 @@
   },
   "ChatAliases": {
     "url": "https://raw.githubusercontent.com/DebianProgrammer/enmity-plugins/main/ChatAliases/dist/ChatAliases.js",
+    "last_update": 1670372941,
     "description": "Chat aliases... yeah thats it lol",
     "version": "1.1.0",
     "author": [
@@ -601,6 +644,7 @@
   },
   "NoDelete": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/NoDelete.js",
+    "last_update": 1680727640,
     "description": "Somewhat basic \"Message Logger\"",
     "version": "3.5.15",
     "color": "#ff0069",
@@ -614,6 +658,7 @@
   },
   "CustomSlowmode": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/CustomSlowmode.js",
+    "last_update": 1680528042,
     "description": "Add custom values to the slowmode slider or remove values that you do not want!",
     "version": "1.0.0",
     "color": "#ff0069",
@@ -627,6 +672,7 @@
   },
   "FriendInvites": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/FriendInvites.js",
+    "last_update": 1680743585,
     "description": "Easily create a Discord friend invite link to make it easier for users to add you as a friend",
     "version": "1.3.6",
     "color": "#ff0069",
@@ -640,6 +686,7 @@
   },
   "ReplaceTimestamps": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
+    "last_update": 1724260734,
     "description": "Replaces plaintext 24 hour timestamps into Discord's timestamps",
     "version": "1.3.0",
     "color": "#E54B4B",
@@ -653,6 +700,7 @@
   },
   "PetPet": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/PetPet.js",
+    "last_update": 1680743585,
     "description": "Generate a petpet gif from a given image",
     "version": "1.0.6",
     "color": "#ff0069",
@@ -666,6 +714,7 @@
   },
   "BetterTiktokEmbeds": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/BetterTiktokEmbeds.js",
+    "last_update": 1680528042,
     "description": "Convert TikTok links to vm.dstn.to links so the TikTok embed is better and can be played.",
     "version": "1.2.6",
     "color": "#ff0069",
@@ -679,6 +728,7 @@
   },
   "CopyEmbeds": {
     "url": "https://github.com/SirTenzin/enmity-copy-embed/releases/latest/download/CopyEmbeds.js",
+    "last_update": 1690549230,
     "description": "Copy the content of an embed.",
     "version": "1.3.0",
     "color": "#B00B69",
@@ -696,6 +746,7 @@
   },
   "GetThatRory": {
     "url": "https://raw.githubusercontent.com/hauntii/EnPlugins/main/GetThatRory/Release/GetThatRory.js",
+    "last_update": 1665624515,
     "description": "Get some cute rory pics",
     "version": "1.0.0",
     "color": "0x\"+Math.floor(Math.random()*16777215).toString(16);const f={type:\"rich",
@@ -709,6 +760,7 @@
   },
   "BetterTwitterEmbeds": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/BetterTwitterEmbeds.js",
+    "last_update": 1691968167,
     "description": "Convert Twitter/X links to FxTwitter links so the tweet embed is better.",
     "version": "1.1.5",
     "color": "#ff0069",
@@ -722,6 +774,7 @@
   },
   "HideGiftButton": {
     "url": "https://github.com/ssense1337/enmity-plugins/raw/main/HideGiftButton/dist/HideGiftButton.js",
+    "last_update": 1671983423,
     "description": "Hide the gift button in Chat Input.",
     "version": "1.0.1",
     "color": "#64D3FF",
@@ -735,6 +788,7 @@
   },
   "Dislate": {
     "url": "https://raw.githubusercontent.com/acquitelol/dislate/main/dist/Dislate.js",
+    "last_update": 1689604517,
     "description": "Translates text into a desired language.",
     "version": "1.4.2",
     "color": "#ff91ff",
@@ -748,6 +802,7 @@
   },
   "CutMessage": {
     "url": "https://raw.githubusercontent.com/jqms/enmity-plugins/main/Cut/dist/CutMessage.js",
+    "last_update": 1664392523,
     "description": "Copy & Delete (thanks to acquite for being gaming lol)",
     "version": "1.2.3",
     "author": [
@@ -760,6 +815,7 @@
   },
   "CustomDiscordLink": {
     "url": "https://raw.githubusercontent.com/jqms/enmity-plugins/main/ChangeDiscordLink/dist/CustomDiscordLink.js",
+    "last_update": 1664553402,
     "description": "Port of that one powercord plugin lol + once again thanks to acquite (and fiore)",
     "version": "1.1.0",
     "author": [
@@ -772,6 +828,7 @@
   },
   "AccountInfo": {
     "url": "https://raw.githubusercontent.com/acquitelol/account-info/main/dist/AccountInfo.js",
+    "last_update": 1663575929,
     "description": "Shows Account Information and Account Assets.",
     "version": "1.3.7",
     "color": "#ff1f84",
@@ -785,6 +842,7 @@
   },
   "NoTracking": {
     "url": "https://raw.githubusercontent.com/iCrazeiOS/Enmity-Plugins/main/Plugins/NoTracking/dist/NoTracking.js",
+    "last_update": 1694827633,
     "description": "Remove tracking parameters from links you send",
     "version": "1.1.3",
     "author": [
@@ -797,6 +855,7 @@
   },
   "FilePicker": {
     "url": "https://github.com/ssense1337/enmity-plugins/raw/main/FilePicker/dist/FilePicker.js",
+    "last_update": 1671991545,
     "description": "Wow File Picker on Discord iOS.",
     "version": "1.5.0",
     "color": "#64D3FF",
@@ -810,6 +869,7 @@
   },
   "ShowHiddenChannels": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/ShowHiddenChannels/dist/ShowHiddenChannels.js",
+    "last_update": 1672738139,
     "description": "Displays all hidden channels which can't be accessed, this won't allow you to read them.",
     "version": "2.0.2",
     "author": [
@@ -822,6 +882,7 @@
   },
   "AccountSwitcher": {
     "url": "https://github.com/ssense1337/enmity-plugins/raw/main/AccountSwitcher/dist/AccountSwitcher.js",
+    "last_update": 1682481787,
     "description": "Switch between multiple accounts.",
     "version": "1.0.5",
     "color": "#64D3FF",
@@ -835,6 +896,7 @@
   },
   "ShowAllActivities": {
     "url": "https://github.com/ssense1337/enmity-plugins/raw/main/ShowAllActivities/dist/ShowAllActivities.js",
+    "last_update": 1671997994,
     "description": "See every status a user has enabled.",
     "version": "1.0.2",
     "color": "#64D3FF",
@@ -852,6 +914,7 @@
   },
   "MuteNewGuilds": {
     "url": "https://raw.githubusercontent.com/attic0001/enmityaddons/main/Plugins/MuteNewGuilds/dist/MuteNewGuilds.js",
+    "last_update": 1668285951,
     "description": "Automatically mutes newly joined guilds.",
     "version": "1.1.0",
     "color": "#6f2da8",
@@ -869,6 +932,7 @@
   },
   "CopyRoleColors": {
     "url": "https://raw.githubusercontent.com/attic0001/enmityaddons/main/Plugins/CopyRoleColors/dist/CopyRoleColors.js",
+    "last_update": 1660165395,
     "description": "Adds option to copy role color in the User Profile context menu.",
     "version": "1.0.0",
     "author": [
@@ -885,6 +949,7 @@
   },
   "GithubStats": {
     "url": "https://raw.githubusercontent.com/attic0001/enmityaddons/main/Plugins/GithubStats/dist/GithubStats.js",
+    "last_update": 1660010033,
     "description": "Fetches github statistics",
     "version": "1.0.0",
     "author": [
@@ -901,6 +966,7 @@
   },
   "AssetViewer": {
     "url": "https://github.com/devicarus/enmity-asset-viewer/releases/download/latest/AssetViewer.js",
+    "last_update": 1659692510,
     "description": "Viewer of assets provided by the Enmity Asset API",
     "version": "0.2.2",
     "author": [
@@ -913,6 +979,7 @@
   },
   "UserDetails": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/UserDetails/dist/UserDetails.js",
+    "last_update": 1662918620,
     "description": "Shows joined at & created at dates on user profiles.",
     "version": "1.0.2",
     "author": [
@@ -925,6 +992,7 @@
   },
   "Unfurl": {
     "url": "https://raw.githubusercontent.com/hauntii/EnPlugins/main/Unfurl/Release/Unfurl.js",
+    "last_update": 1660092993,
     "description": "Shorten or lengthen your URLs!",
     "version": "1.1.0",
     "author": [
@@ -937,6 +1005,7 @@
   },
   "AllReplyMention": {
     "url": "https://github.com/lexisother/Enmity-Plugins/raw/master/AllReplyMention/dist/AllReplyMention.js",
+    "last_update": 1657217951,
     "description": "Does a load of random crap.",
     "version": "1.0.0",
     "author": [
@@ -949,6 +1018,7 @@
   },
   "SplitMessages": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/SplitMessages/dist/SplitMessages.js",
+    "last_update": 1656596968,
     "description": "Splits messages over the message length limit into multiple.",
     "version": "1.0.0",
     "author": [
@@ -961,6 +1031,7 @@
   },
   "CreateWebhooks": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/CreateWebhooks.js",
+    "last_update": 1716764036,
     "description": "Create webhooks from the webhook management screens",
     "version": "2.0.1",
     "color": "#f9a418",
@@ -974,6 +1045,7 @@
   },
   "Freemoji": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/Freemoji.js",
+    "last_update": 1716764036,
     "description": "Send external emoji without Nitro as image links",
     "version": "2.0.3",
     "color": "#f9a418",
@@ -987,6 +1059,7 @@
   },
   "NoReplyMention": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/NoReplyMention.js",
+    "last_update": 1716764036,
     "description": "Disable reply pings by default",
     "version": "1.1.0",
     "color": "#f9a418",
@@ -1000,6 +1073,7 @@
   },
   "PictureLink": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/PictureLink/dist/PictureLink.js",
+    "last_update": 1681405342,
     "description": "Allows you to click avatars and banners to open them in-app.",
     "version": "1.0.2",
     "author": [
@@ -1012,6 +1086,7 @@
   },
   "NSFWGateBypass": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/NSFWGateBypass/dist/NSFWGateBypass.js",
+    "last_update": 1653812613,
     "description": "Bypasses NSFW guild, channel and invite gates.",
     "version": "1.0.0",
     "author": [
@@ -1024,11 +1099,13 @@
   },
   "wttr": {
     "url": "https://raw.githubusercontent.com/mugman174/Enmity-Plugins/main/docs/plugins/wttr.js",
+    "last_update": 1674829129,
     "description": "Get the weather",
     "message_id": 963140147065552998
   },
   "ReactDevTools": {
     "url": "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
+    "last_update": 1668454299,
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1",
     "color": "#61dafb",
@@ -1045,6 +1122,7 @@
   },
   "FixVoiceMessageCrash": {
     "url": "https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js",
+    "last_update": 1684587226,
     "description": "Show voice messages as a normal attachment to avoid crash",
     "version": "1.0.2",
     "color": "#000000",
@@ -1057,6 +1135,7 @@
   },
   "TrackEdit": {
     "url": "https://raw.githubusercontent.com/m4fn3/TrackEdit/master/dist/TrackEdit.js",
+    "last_update": 1688473134,
     "description": "Track edits/delete of other's messages",
     "version": "1.0.1",
     "color": "#fff98a",
@@ -1069,6 +1148,7 @@
   },
   "UtilityPatches": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-utility-patches/main/dist/UtilityPatches.js",
+    "last_update": 1685743361,
     "description": "Minor patches/fixes all bundled into a single plugin for convenience.",
     "version": "1.2.2",
     "color": "#ff91ff",
@@ -1080,10 +1160,12 @@
     ]
   },
   "VendettaCompat": {
-    "url": "https://raw.githubusercontent.com/SerStars/vendetta-compat/main/dist/VendettaCompat.js"
+    "url": "https://raw.githubusercontent.com/SerStars/vendetta-compat/main/dist/VendettaCompat.js",
+    "last_update": 1730678976
   },
   "FixConnecting": {
     "url": "https://raw.githubusercontent.com/m4fn3/FixConnecting/master/dist/FixConnecting.js",
+    "last_update": 1690293864,
     "description": "Fix the annoying Connecting bug",
     "version": "1.0.0",
     "color": "#0D324D",
@@ -1095,6 +1177,7 @@
     ]
   },
   "SilentTyping": {
-    "url": "https://egg.cafe/SilentTyping.js"
+    "url": "https://egg.cafe/SilentTyping.js",
+    "last_update": 1728174506
   }
 }
