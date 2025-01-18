@@ -1,4 +1,17 @@
 {
+  "HideMessageShortcuts": {
+    "url": "https://raw.githubusercontent.com/SerStars/HideMessageShortcuts/refs/heads/main/dist/HideMessageShortcuts.js",
+    "description": "Hide the unnecessary shortcut icons from messages.",
+    "version": "1.0.0",
+    "color": "#000001",
+    "author": [
+      {
+        "name": "SerStars",
+        "id": "861631850681729045"
+      }
+    ],
+    "message_id": 1330193627049361430
+  },
   "friends-since": {
     "url": "https://raw.githubusercontent.com/doggybootsy/enmity-plugins/refs/heads/main/dist/friends-since.js",
     "description": "Shows how long you have been friends for",
@@ -590,9 +603,9 @@
   },
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/GlobalBadges.js",
-    "last_update": 1717709636,
+    "last_update": 1735139402,
     "description": "Adds global badges from other client mods",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "color": "#E54B4B",
     "author": [
       {

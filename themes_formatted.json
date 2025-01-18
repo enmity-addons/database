@@ -1,7 +1,7 @@
 {
-  "YouBlue": {
-    "url": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouBlue/YouBlue.json",
-    "description": "blue based on material you :3",
+  "YouPink": {
+    "url": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouPink/YouPink.json",
+    "description": "pink based on material you :3",
     "author": [
       {
         "name": "dor4a",
@@ -11,16 +11,16 @@
     "version": "1.0",
     "message_id": 1303003798683258921
   },
-  "SpookOrange": {
-    "url": "https://raw.githubusercontent.com/catnipjson/catnips-themes/refs/heads/main/Spook/SpookOrange.json",
-    "description": "Get into that spooky feeling with an authentic orange pumpkin!",
+  "SpookGreen": {
+    "url": "https://raw.githubusercontent.com/catnipjson/catnips-themes/refs/heads/main/Spook/SpookGreen.json",
+    "description": "Get into that spooky feeling with a freshly painted green pumpkin!",
     "author": [
       {
         "name": "catnip.json",
         "id": "980160393093730395"
       }
     ],
-    "color": "#F4831B",
+    "color": "#64C329",
     "message_id": 1298779036620951573
   },
   "DateNight": {
@@ -163,16 +163,16 @@
     "color": "#7C82FF",
     "message_id": 1246816475147276372
   },
-  "BetterDarkGreen": {
-    "url": "https://raw.githubusercontent.com/catnipjson/BetterDark/main/BetterDarkGreen.json",
-    "description": "Darker than dark, with a twist of green.",
+  "BetterDarkBlue": {
+    "url": "https://raw.githubusercontent.com/catnipjson/BetterDark/main/BetterDarkBlue.json",
+    "description": "Darker than dark, with a twist of blue.",
     "author": [
       {
         "name": "darealyeeto",
         "id": "980160393093730395"
       }
     ],
-    "color": "#BAFFB3",
+    "color": "#A5C4FF",
     "message_id": 1246242646008139837
   },
   "Discord_Dark": {
@@ -199,9 +199,9 @@
     "color": "#DA4453",
     "message_id": 1228887393654800424
   },
-  "LavenderNoBG": {
-    "url": "https://raw.githubusercontent.com/catnipjson/Lavender/main/LavenderNoBG.json",
-    "description": "A light, soft purple theme - backgroundless.",
+  "Lavender": {
+    "url": "https://raw.githubusercontent.com/catnipjson/Lavender/main/Lavender.json",
+    "description": "A light, soft purple theme.",
     "author": [
       {
         "name": "catnip.json",
@@ -259,16 +259,16 @@
     "version": "1.1",
     "message_id": 1183855530398195813
   },
-  "AmoledOrthinanosRed": {
-    "url": "https://rosieorthinanos.dev/themes/AmoledOrthinanosRed.json",
-    "description": "Amoled Red revamp of my BetterDiscord theme.",
+  "AmoledOrthinanosYellow": {
+    "url": "https://rosieorthinanos.dev/themes/AmoledOrthinanosYellow.json",
+    "description": "Amoled Yellow revamp of my BetterDiscord theme.",
     "author": [
       {
         "name": "Rosie",
         "id": "99239287052054528"
       }
     ],
-    "color": "#ff2b2b",
+    "color": "#f7f28b",
     "version": "1.2",
     "message_id": 1183835508208578620
   },
@@ -349,17 +349,17 @@
     "version": "1.2",
     "message_id": 1139268724294160505
   },
-  "OrthinanosRed": {
-    "url": "https://rosieorthinanos.dev/themes/OrthinanosRed.json",
-    "description": "Red revamp of my BetterDiscord theme.",
+  "OrthinanosPink": {
+    "url": "https://rosieorthinanos.dev/themes/OrthinanosPink.json",
+    "description": "Pink revamp of my BetterDiscord theme.",
     "author": [
       {
         "name": "Rosie",
         "id": "99239287052054528"
       }
     ],
-    "color": "#ff2b2b",
-    "version": "1.8",
+    "color": "#f78bb1",
+    "version": "1.4",
     "message_id": 1127015668588494858
   },
   "RoyalUndella": {
@@ -768,8 +768,8 @@
     "version": "1.0",
     "message_id": 1009126385178128506
   },
-  "Vamp_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
+  "Vamp_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
     "description": "Vamp Anime Girl",
     "author": [
       {
@@ -777,7 +777,7 @@
         "id": "848518188195250176"
       }
     ],
-    "version": "1.1",
+    "version": "1.0",
     "message_id": 1008773047215472731
   },
   "Aurora": {
@@ -935,17 +935,17 @@
     ],
     "message_id": 995045416003444797
   },
-  "FEFE": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
-    "description": "Colorful hair, don't care (OLED)",
+  "FEFE69": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
+    "description": "Colorful hair, don't care",
     "author": [
       {
         "name": "Sudo",
         "id": "696446023815397456"
       }
     ],
-    "color": "#FF0000",
-    "version": "1.9",
+    "color": "#00B050",
+    "version": "69",
     "message_id": 992712535830712410
   },
   "Waveout": {
